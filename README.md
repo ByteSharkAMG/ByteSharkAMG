@@ -13,7 +13,7 @@
   <a href="https://youtube.com/@ByteSharkAMG">
     <img src="https://img.shields.io/badge/YouTube-ByteSharkAMG-red?style=for-the-badge&logo=youtube" alt="YouTube"/>
   </a>
-  <a href="byteshark.amg@gmail.com">
+  <a href="mailto:byteshark.amg@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email-black?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </div>
